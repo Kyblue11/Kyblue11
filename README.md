@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/25/9f/b6/259fb6b1bd2762f1ce5c3f1d9116630b.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
