@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="118" src="https://i.pinimg.com/originals/25/9f/b6/259fb6b1bd2762f1ce5c3f1d9116630b.gif"  />
+<img align="right" height="100" src="https://i.pinimg.com/originals/25/9f/b6/259fb6b1bd2762f1ce5c3f1d9116630b.gif"  />
 
 ###
 
@@ -41,32 +41,30 @@
 
 <div align="left">
   <a href="www.youtube.com/@kyblue11/videos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/aaronkylam/profilecard/?igsh=dDJ3aDAzajAyMA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="@kyblue11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="gbaaronlam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/aaron-lam-609bb1309" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/315er72cjnidtiyiwmxk3zru7dlu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315er72cjnidtiyiwmxk3zru7dlu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-
 <!---
 Kyblue11/Kyblue11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
