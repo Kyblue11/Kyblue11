@@ -1,4 +1,4 @@
-<h2 align="left">About me!</h2>
+<h2 align="left">🌠About me!</h2>
 
 ###
 
@@ -12,6 +12,8 @@
 </div>
 
 ###
+
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -35,6 +37,7 @@
 
 ###
 
+<h2 align="left">Socials</h2>
 <div align="left">
   <a href="https://www.youtube.com/@kyblue11/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -52,7 +55,7 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">☕Chill</h2>
 
 <div align="left">
   <a href="https://open.spotify.com/user/315er72cjnidtiyiwmxk3zru7dlu">
