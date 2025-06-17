@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a current student at Monash University majoring in Computer Science. I have a passion for solving complex problems and optimizing code efficiency. With a solid foundation in programming and design, I approach every challenge with the belief that there’s always an elegant solution waiting to be discovered.<br><br>I am particularly fascinated by the logic and implementation of data structures and algorithms, and I enjoy seeing how they can be applied to everyday problems.</p>
+<p align="left">I'm a current student at Monash University majoring in Computer Science. <br> I build web apps, games and the occasional desktop tools for fun!
 
 ###
 
