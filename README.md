@@ -6,22 +6,9 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center; gap: 16px;">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Kyblue11&theme=dracula&card_width=380&card_height=150"
-      alt="GitHub Streak"
-      height="150"
-      style="display: block; vertical-align: middle; margin: 0; padding: 0;"
-    />
-  </a>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyblue11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="languages graph"
-    style="display: block; vertical-align: middle; margin: 0; padding: 0;"
-  />
-</div>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Kyblue11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyblue11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ###
 
