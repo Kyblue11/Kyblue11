@@ -54,6 +54,7 @@
 </div>
 
 ###
+[![2 Years on Kaggle](https://img.shields.io/badge/Kaggle-2%20Years-4BC748?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/Kyblue11)
 
 <h2 align="left">☕Chill</h2>
 
