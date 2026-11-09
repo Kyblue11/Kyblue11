@@ -1,1 +1,1 @@
-<p align="left">Finished studying at Monash University majoring in Computer Science.
+<p align="left">AI Engineer @ Cyberjaya. Alumni @ Monash University - Advanced Computer Science. 
